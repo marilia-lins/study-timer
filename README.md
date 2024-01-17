@@ -2,7 +2,7 @@
 
 ## Project's Scope
 
-* Responsive to-do board with time tracker, focused on studies
+* Responsive task board with time tracker, focused on studies.
 * Layout built with Tailwind, slightly inspired by frutiger aero/old web aesthetic
 
 ## Demo
