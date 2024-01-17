@@ -14,8 +14,6 @@
 <br/>
 ![studytimer3](https://github.com/marilia-lins/study-timer/assets/121808358/50e7e590-fcab-4013-b24e-84575ab96945)
 
-## Getting Started
-
 ### Installing and running
 
 ```
