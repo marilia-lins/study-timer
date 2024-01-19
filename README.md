@@ -34,7 +34,7 @@ The project will run at http://localhost:3000
 - **react-dom:** ^18.2.0
 - **react-scripts:** ^5.0.1
 - **web-vitals:** ^2.1.4
-- **tailwindcss:** "^3.4.1
+- **tailwindcss:** ^3.4.1
 
 ## Technologies
 
