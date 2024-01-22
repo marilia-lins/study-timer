@@ -3,8 +3,8 @@
 ## Project's Scope
 
 * Responsive task board with time tracker, focused on studies.
-* Layout built with Tailwind, slightly inspired by frutiger aero/old web aesthetic
-
+* Layout built with Tailwind
+  
 ## Demo
 ![studytimer1](https://github.com/marilia-lins/study-timer/assets/121808358/4427f758-5f20-4872-9009-319f5eb29050)
 <br/>
